@@ -1,0 +1,9 @@
+.footer {
+    background-color: rgb(242, 242, 242);
+}
+
+.footer__info {
+    border-bottom: 1px solid #dadce0;
+    padding: 1rem 1.8rem;
+    font-size: 0.6rem;
+}

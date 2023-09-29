@@ -1,0 +1,13 @@
+/* main */
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.main__image {
+    width: 13.5rem;
+    height: auto;
+}

@@ -1,0 +1,13 @@
+/* base */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #202124;
+}
+
+a {
+    color: #202124;
+}
+
+a:hover {
+    text-decoration: underline;
+}
